@@ -12,3 +12,4 @@ vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=no
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf&alpn=h3#🇪🇸 Испания WIFI
 vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=example.com&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#🇺🇸🎃⚡️Хулллоувин MAX SPEED⚡️
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.58.178.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de3.swcdn.xyz&fp=chrome&pbk=N6RFNy2oUKtxhdpKyIbZnjWSMghyiu37veqd6MLjbgk&sid=d641efc97408a7e4&type=tcp&headerType=none#🇷🇺⚡️ДЛЯ ТТ
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?encryption=none&security=tls&sni=fitindoor.net&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&mode=auto#🇷🇺 Белые списки 
